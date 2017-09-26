@@ -4,3 +4,6 @@
   In the real world, you would add support for Offline or the ability to
   handle push messages.
 */
+self.addEventListener("fetch", function(event){
+ console.log("fetching..);
+});
