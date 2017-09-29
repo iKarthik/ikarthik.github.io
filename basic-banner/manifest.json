@@ -39,7 +39,5 @@
       "platform":"play",
       "id":"com.southwestairlines.mobile"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone"
+  ]
 }
