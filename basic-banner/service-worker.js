@@ -7,3 +7,8 @@
 self.addEventListener("fetch", function(event){
  console.log("fetching..");
 });
+
+
+window.addEventListener('beforeinstallprompt', function(event){
+ console.log('before installing');
+});
