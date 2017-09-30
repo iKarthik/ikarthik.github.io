@@ -3,7 +3,7 @@
   "name": "Southwest Airlines",
   "icons": [
     {
-      "src": "images/southwest-logo-144x144.png",
+      "src": "launcher-icon-3x.png",
       "sizes": "144x144",
       "type": "image/png"
     }
