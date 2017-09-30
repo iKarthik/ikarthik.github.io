@@ -40,7 +40,8 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.southwestairlines.mobile"
+      "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+      "id": "com.example.app1"
     }
   ],
   "start_url": "/air/booking/shopping",
