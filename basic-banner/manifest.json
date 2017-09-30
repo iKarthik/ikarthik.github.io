@@ -3,7 +3,7 @@
   "name": "SouthWest Airlines",
   "theme_color": "blue",
   "background_color": "red",
-  "scope": "/air",
+  "scope": "/",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
@@ -44,6 +44,6 @@
       "id": "com.example.app1"
     }
   ],
-  "start_url": "/air/booking/shopping",
+  "start_url": "/",
   "display": "fullscreen"
 }
