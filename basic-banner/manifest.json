@@ -1,6 +1,7 @@
 {
   "short_name": "Southwest Airlines",
   "name": "Southwest Airlines",
+  "start_url" : "",
   "icons": [
     {
       "src": "launcher-icon-3x.png",
