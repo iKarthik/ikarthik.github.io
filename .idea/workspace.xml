@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc8168b-8b35-43a3-944e-b2486ccc1e92" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic-banner/manifest.json" afterPath="$PROJECT_DIR$/basic-banner/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic-banner/index.html" afterPath="$PROJECT_DIR$/basic-banner/index.html" />
     </list>
     <ignored path="ikarthik.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic-banner/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="467">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -70,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic-banner/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -113,8 +113,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/basic-banner/service-worker.js" />
-        <option value="$PROJECT_DIR$/basic-banner/index.html" />
         <option value="$PROJECT_DIR$/basic-banner/manifest.json" />
+        <option value="$PROJECT_DIR$/basic-banner/index.html" />
       </list>
     </option>
   </component>
@@ -309,12 +309,12 @@
       <updated>1506705430500</updated>
       <workItem from="1506705431715" duration="237000" />
       <workItem from="1506810284639" duration="118000" />
-      <workItem from="1506810872326" duration="1357000" />
+      <workItem from="1506810872326" duration="1428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1712000" />
+    <option name="totallyTimeSpent" value="1783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -485,18 +485,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-banner/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic-banner/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-banner/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding />
         </state>
       </provider>
